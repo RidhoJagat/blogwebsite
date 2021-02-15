@@ -23,7 +23,8 @@ if($ketemu > 0){
         echo "<h1>Anda berhasil login</h1>";
 } else {
         echo "<center>Username dan password tidak diketahui</center><br>";
-        echo "<center><a href='index.php'>Silahkan login kembali</a></center>";
+        echo "<center><a href='index.php'>Silahkan login kembali</a>
+        </center>";
 }
 
 ?>
